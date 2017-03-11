@@ -1,5 +1,5 @@
-用Visual Studio Code进行调试
-==========================
+用Visual Studio Code调试PowerShell
+=================================
 
 * 安装PowerShell的插件；
 * 打开代码，切换到调试模式；
