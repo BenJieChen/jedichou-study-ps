@@ -65,4 +65,6 @@ Windows.PowerShell应用手册 - 第1部分：教程
 
 ### 技术的桥梁
 * 例T-5: 没看懂，因为$content是什么没写
+* 例T-6: AD操作需要环境
 * 例13: PsUseAD.ps1
+* 例14: UseCOM.ps1
