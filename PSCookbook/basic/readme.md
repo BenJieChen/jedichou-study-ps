@@ -68,3 +68,6 @@ Windows.PowerShell应用手册 - 第1部分：教程
 * 例T-6: AD操作需要环境
 * 例13: PsUseAD.ps1
 * 例14: UseCOM.ps1
+
+### 通过提供程序导航命名空间
+* 例15: NavigateDir.ps1 (导航文件系统)
