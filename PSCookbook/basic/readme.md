@@ -73,3 +73,6 @@ Windows.PowerShell应用手册 - 第1部分：教程
 * 例15: NavigateDir.ps1 (导航文件系统)
 * 例16: NavigateReg.ps1 (导航注册表)
 * 例17: CheckCurrentCA.ps1 (检索本地证书)
+* Jedi: 这几个例子倒是比较实用
+
+### 更多内容
