@@ -34,3 +34,12 @@ Windows.PowerShell应用手册 - 第1章 Windows Powershell交互界面
 * 例18: PsPromptExample.ps1
 * Jedi: 例18并没有执行
 
+### 1.4 查找实现指定任务的命令
+* Get-Command
+  - Example: Get-Command *CommandName*
+  - Example: Get-Command *CommandName* | Format-List
+  - Example: Get-Command *CommandName* | *text*
+  - Example: Get-Command -Verb *Get*
+  - Example: Get-Command -Noun *Service* (搜索所有与服务有关的命令)
+* Get-Help
+* Get-Member
